@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @figg3
-- 👀 I’m interested in Node, Javascript, C#, SQL, PL/SQL
+- 👀 I’m interested in Node, Javascript, C#, SQL, PL/SQL, HTML, CSS and much more. 
 - 📫 cg.fredrik.martinsson@gmail.com or me@martinssonfredrik.se
